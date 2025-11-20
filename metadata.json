@@ -1,0 +1,5 @@
+{
+  "name": "ActiveAge Watch Demo",
+  "description": "An interactive Apple Watch simulation showcasing health monitoring features for seniors, including step counting, medication reminders, and fall detection.",
+  "requestFramePermissions": []
+}
